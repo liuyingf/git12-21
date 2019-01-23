@@ -7,5 +7,4 @@ nihao
 aa
 s
 bbaa
-hellow word
 hh
